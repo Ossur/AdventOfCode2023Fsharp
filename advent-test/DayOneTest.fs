@@ -78,5 +78,3 @@ let benchmarkTests () =
     calcSumPrecompiledRegex
     "Using String.Replace is faster than precompiled Regex"
     
-type ASDF = { X: string}
-type F = X | Y of int | Z
